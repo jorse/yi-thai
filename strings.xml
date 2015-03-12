@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Yi กล้อง</string>
+    <string name="app_name">กล้อง Yi</string>
     <string name="weibo_oauth_regiseter">Authorization</string>
     <string name="website">http://www.mob.com</string>
     <string name="weibo_upload_content">แชร์รูปภาพ</string>
